@@ -4,7 +4,7 @@ Documentation related repositories
 ### Presentations
 
  - ["`.dotfiles` - Where `${HOME}` is best"](http://docs.gbraad.nl/dotfiles-presentation/)  
-   Topic: _bootc_
+   Topic: _bash_ _zsh_ _shell_ _dotfiles_
  - ["From `Containerfile` to (Virtual) Machine"](http://docs.gbraad.nl/from-containerfile-to-virtual-machine/)  
    Topic: _bootc_
  - ["Just a fancy markdown editor?"](https://docs.gbraad.nl/obsidian-presentation/)  
